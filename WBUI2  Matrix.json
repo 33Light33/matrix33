@@ -5,7 +5,7 @@
             "HideIcon": true,
             "HideIconAfter": 60,
             "IconURL": "",
-            "DisableIconText": true,
+            "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<TextStyle.Green> Welcome </>",
                     "title1": "<TextStyle.Green> Welcome On Matrix </>",
-                    "text1": "\n\n\n\n          Matrix was created because I'm fed up with all the servers that impose 10/15/20 ..... rules ingame, it's unbearable, it's a game and we want to relax. I rent a very powerful host to offer you a stable servers. I hope you have a good time, we have a community that helps each other with respect. Neo.",
+                    "text1": "\n\n\n\n          Matrix was created because I'm fed up with all the servers that impose 10/15/20 ..... rules ingame, it's unbearable, it's a game and we want to relax. I rent a very powerful host to offer you a stable servers. I hope you have a good time, we have a community that helps each other with respect. Neo.\n\n\n\n          1. F1 to open this menu\n\n          2.Shop & Kits, in your inventory Bottom left you have 3 kits starter in loot box",
 					
                     "imageurl": "https://i.imgur.com/GKvRF7B.jpg"
                 }
